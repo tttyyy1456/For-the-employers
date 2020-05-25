@@ -1,7 +1,0 @@
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\bin\Debug\Переделываю из JavaScript.exe.config
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\bin\Debug\Переделываю из JavaScript.exe
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\bin\Debug\Переделываю из JavaScript.pdb
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\obj\Debug\Переделываю из JavaScript.csprojAssemblyReference.cache
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\obj\Debug\Переделываю из JavaScript.csproj.CoreCompileInputs.cache
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\obj\Debug\Переделываю из JavaScript.exe
-C:\Users\timoh\OneDrive\Рабочий стол\CSharp\Переделываю из JavaScript\Переделываю из JavaScript\obj\Debug\Переделываю из JavaScript.pdb
